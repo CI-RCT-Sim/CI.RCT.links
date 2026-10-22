@@ -14,7 +14,7 @@ Use of causal inference methods commonly used in non-interventional studies to e
 
 * Simulation Study Protocol and Simulation Study Report in the [EMA RWD Catalog](https://catalogues.ema.europa.eu/node/4623/study-documents)
 
-## R-packages
+## R-package
 
 * CI.RCT.Sim: Package to Facilitate a Simulation Study on Causal Inference Methods in RCTs. [https://ci-rct-sim.github.io/CI.RCT.Sim/](https://ci-rct-sim.github.io/CI.RCT.Sim/)
 
