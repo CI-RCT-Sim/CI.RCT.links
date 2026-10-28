@@ -4,7 +4,7 @@ filename: links.md
 layout: base
 --- 
 
-Use of causal inference methods commonly used in non-interventional studies to estimate treatment effects in clinical trials. Funded by EMA under EMA/2020/46/TDA, Lot 3 - ROC36, awarded to and conducted by the CONFIRMS consortium. (Administrative Details in the [EMA RWD Catalog](https://catalogues.ema.europa.eu/node/4623/administrative-details))
+Reseach Project *"Use of causal inference methods commonly used in non-interventional studies to estimate treatment effects in clinical trials"*. Funded by EMA under EMA/2020/46/TDA, Lot 3 - ROC36, awarded to and conducted by the CONFIRMS consortium. (Administrative Details in the [EMA RWD Catalog](https://catalogues.ema.europa.eu/node/4623/administrative-details))
 
 ## Papers
 
@@ -14,13 +14,13 @@ Use of causal inference methods commonly used in non-interventional studies to e
 
 ### 8th International Symposium on Biopharmaceutical Statistics (ISBS), October 2026, Madrid
 
-* Susanne Urach: Review of causal inference methods for randomised trials in European Public Assessment Reports
-* Florian Klinglmüller: Estimating principal-stratum vaccine efficacy under incomplete regimen completion ([slides](documents/2026_ISBS_Klinglmueller_handling_rescue_medication_in_diabetes_trials.pdf))
-* Niels Hendrickx: Treatment discontinuation and while-on-treatment estimation
-* Robin Ristl: Treatment switching in randomised trials with time-to-event outcomes – hypothetical estimand strategy via causal inference
-* Louise Jespersen: Causal inference methods for estimating treatment effects in the presence of rescue medication and treatment ([slides](documents/2026_ISBS_Jespersen_principal_stratum_vaccine_efficace_with_incomplete_vaccination.pdf))
-* Paula Starke: Causal inference methods for specific estimands in the context of randomised trials – scoping review
-* Tobias Fellinger: Simulation studies in regulatory science ([slides](documents/2026_ISBS_Fellinger_simulation_studies_in_regulatory_science.pdf))
+* Susanne Urach: *Review of causal inference methods for randomised trials in European Public Assessment Reports*
+* Florian Klinglmüller: *Estimating principal-stratum vaccine efficacy under incomplete regimen completion* ([slides](documents/2026_ISBS_Klinglmueller_handling_rescue_medication_in_diabetes_trials.pdf))
+* Niels Hendrickx: *Treatment discontinuation and while-on-treatment estimation*
+* Robin Ristl: *Treatment switching in randomised trials with time-to-event outcomes – hypothetical estimand strategy via causal inference*
+* Louise Jespersen: *Causal inference methods for estimating treatment effects in the presence of rescue medication and treatment* ([slides](documents/2026_ISBS_Jespersen_principal_stratum_vaccine_efficace_with_incomplete_vaccination.pdf))
+* Paula Starke: *Causal inference methods for specific estimands in the context of randomised trials – scoping review*
+* Tobias Fellinger: *Simulation studies in regulatory science* ([slides](documents/2026_ISBS_Fellinger_simulation_studies_in_regulatory_science.pdf))
 
 ## Study Protocols and Reports
 
