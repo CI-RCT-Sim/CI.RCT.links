@@ -15,7 +15,7 @@ Use of causal inference methods commonly used in non-interventional studies to e
 ### 8th International Symposium on Biopharmaceutical Statistics (ISBS), October 2026, Madrid
 
 * Susanne Urach: Review of causal inference methods for randomised trials in European Public Assessment Reports
-* Florian Klinglmüller: Estimating principal-stratum vaccine efficacy under incomplete regimen completion ([slides](docuements/2026_ISBS_Klinglmueller_handling_rescue_medication_in_diabetes_trials.pdf))
+* Florian Klinglmüller: Estimating principal-stratum vaccine efficacy under incomplete regimen completion ([slides](documents/2026_ISBS_Klinglmueller_handling_rescue_medication_in_diabetes_trials.pdf))
 * Niels Hendrickx: Treatment discontinuation and while-on-treatment estimation
 * Robin Ristl: Treatment switching in randomised trials with time-to-event outcomes – hypothetical estimand strategy via causal inference
 * Louise Jespersen: Causal inference methods for estimating treatment effects in the presence of rescue medication and treatment ([slides](documents/2026_ISBS_Jespersen_principal_stratum_vaccine_efficace_with_incomplete_vaccination.pdf))
